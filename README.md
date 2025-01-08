@@ -1,11 +1,10 @@
-Hello, my name is Jefferey, a college graduate with a BS in Video Game Design and Engineering. 
-My programming interests are engine architecture, shader development, and parallel processing systems. 
-I'd like to apologize to all businesses I'm currently applying to for not finishing my online portfolio/Website yet.
+Hello, my name is Jefferey, an opensource web & application developer with a BoS in Digital Simulation and Game Engineering Technology. 
+My programming interests are engine architecture, application, and game development. 
 
-I'm currently working to expand my knowledge of web development, wanting to learn a basic understanding of both front-end and back-end (although I imagine I'll be far more interested in back-end). This is slowed by my unrelenting fascination with shader development.
+I'm currently broadening my developer horizons, tackling different platforms, applications, and tech-stacks to find out everything I can to do with software. My unrelenting fascination with game-design, shaders, UI-UX, and game-play design push me to learn new things ever day.
 
 If you have any business inquiries or have any questions about my work I can be contacted at:
   jefferey.l.schlueter@gmail.com
   
-Regards, and have a wonderful day-
+Regards and have a wonderful day,
 Jefferey
